@@ -52,3 +52,5 @@ http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Green TV
 http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
+#EXTINF:-1 tvg-id="Movies" tvg-group="The Lord of THe rings" tvg-logo="https://i.postimg.cc/6pxJp0nR/1144782.jpg",The Lord of The Rings
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282001%29%201080p/The%20Lord%20of%20the%20Rings-The%20Fellowship%20of%20the%20Ring%20%282001%29%201080p%20%5BDual%20Audio%5D/The%20Fellowship%20of%20the%20Ring%20%282001%29%20REM%20EXTENDED%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
