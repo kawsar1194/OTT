@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", BTV
+http://cdn01.palki.tv/live/BTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", BTV Chattogram
+http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", BTV World
+http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Sangsad TV
+http://cdn01.palki.tv/live/SangsadTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Anando TV
+http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", ATN Bangla
+http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", ATN News
+http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Banglavision HD
+http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Bijoy TV
+http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Boishakhi TV
+http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Channel 9
+http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Channel I
+http://cdn01.palki.tv/live/Channeli-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Ekattor TV
+http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Ekhon TV
+http://cdn01.palki.tv/live/EkhonTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Ekushey TV
+http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Gaan Bangla
+http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Global TV
+http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Green TV
+http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
