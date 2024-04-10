@@ -165,8 +165,10 @@ http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinema
 http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282022%29/Lyle%2C%20Lyle%2C%20Crocodile%20%282022%29%20720p%20%5BDual%20Audio%5D/Lyle%20Lyle%20Crocodile%20%282022%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282014%29/Seventh%20Son%20%282014%29%20720p%20%5BDual%20Audio%5D/a14.jpg" group-title="Movies",Seventh Son
 http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282014%29/Seventh%20Son%20%282014%29%20720p%20%5BDual%20Audio%5D/Seventh.Son.2014.720p.BRRip.Dual.Audio.1GB.MkvCage.mkv
-#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282007%29/Ghost%20Rider%20%282007%29%20720p%20%5BDual%20Audio%5D/a07_.jpg" group-title="Movies",Ghost Rider
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282007%29/Ghost%20Rider%20%282007%29%20720p%20%5BDual%20Audio%5D/a07_.jpg" group-title="Marvel Studios",Ghost Rider
 http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282007%29/Ghost%20Rider%20%282007%29%20720p%20%5BDual%20Audio%5D/Ghost%20Rider%20%282007%29%20Extended%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282011%29/Ghost%20Rider-Spirit%20of%20Vengeance%20%282011%29%20720p%20%5BDual%20Audio%5D/a6.jpg" group-title="Marvel Studios",Ghost Rider: Spirit of Vengeance
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282011%29/Ghost%20Rider-Spirit%20of%20Vengeance%20%282011%29%20720p%20%5BDual%20Audio%5D/Ghost%20Rider%202-Spirit%20of%20Vengeance%20%282011%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Avatar-The%20Last%20Airbender%20%28TV%20Series%202024%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Avatar-The Last Airbender",S01E01
 http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Avatar-The%20Last%20Airbender%20%28TV%20Series%202024%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/Avatar%20The%20Last%20Airbender%20S01E01%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Avatar-The%20Last%20Airbender%20%28TV%20Series%202024%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Avatar-The Last Airbender",S01E02
@@ -189,33 +191,40 @@ http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinema
 http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies/%282013%29/Frozen%20%282013%29%20720p%20%5BDual%20Audio%5D/Frozen%20%282013%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-ExtraM.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies/%282019%29/Frozen%20II%20%282019%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies",Frozen II
 http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies/%282019%29/Frozen%20II%20%282019%29%20720p%20%5BDual%20Audio%5D/Frozen%20II%20%282019%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-%20mkvC.mkv
+#EXTINF:-1, tvg-logo="" group-title="Marvel Studios",Captain America: The First Avenger
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282011%29/Captain%20America-The%20First%20Avenger%20%282011%29%20720p%20%5BDual%20Audio%5D/Captain%20America-The%20First%20Avenger%20%282011%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282011%29/Green%20Lantern%20%282011%29%20720p%20%5BDual%20Audio%5D/a11.jpg" group-title="DC Extended Universe",Green Lantern
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282011%29/Green%20Lantern%20%282011%29%20720p%20%5BDual%20Audio%5D/Green%20Lantern%20%282011%29%20EXTENDED%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/DC%20Extended%20Universe-DCEU%20Collection%20%282008-2019%29%20720p%20%26%201080p%20%5BDual%20Audio%5D/01%20-%20Man%20of%20Steel%20%282013%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="DC Extended Universe",Man of Steel
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/DC%20Extended%20Universe-DCEU%20Collection%20%282008-2019%29%20720p%20%26%201080p%20%5BDual%20Audio%5D/01%20-%20Man%20of%20Steel%20%282013%29%201080p%20%5BDual%20Audio%5D/Man%20of%20Steel%20%282013%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-%20mkvC.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/DC%20Extended%20Universe-DCEU%20Collection%20%282008-2019%29%20720p%20%26%201080p%20%5BDual%20Audio%5D/06%20-%20Aquaman%20%282018%29%201080p%20%5BDual%20Audio%5D/a_VL_.jpg" group-title="DC Extended Universe",Aquaman
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/DC%20Extended%20Universe-DCEU%20Collection%20%282008-2019%29%20720p%20%26%201080p%20%5BDual%20Audio%5D/06%20-%20Aquaman%20%282018%29%201080p%20%5BDual%20Audio%5D/Aquaman%20%282018%29%201080p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-Ranvijay.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/DC%20Extended%20Universe-DCEU%20Collection%20%282008-2019%29%20720p%20%26%201080p%20%5BDual%20Audio%5D/08%20-%20Birds%20of%20Prey%20%282020%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="DC Extended Universe",Birds of Prey
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/DC%20Extended%20Universe-DCEU%20Collection%20%282008-2019%29%20720p%20%26%201080p%20%5BDual%20Audio%5D/08%20-%20Birds%20of%20Prey%20%282020%29%201080p%20%5BDual%20Audio%5D/Birds%20of%20Prey%20%282020%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-%20mkvC.mkv
+#EXTINF:-1, tvg-logo="" group-title="DC Extended Universe",
+
+#EXTINF:-1, tvg-logo="" group-title="DC Extended Universe",
+
+#EXTINF:-1, tvg-logo="" group-title="DC Extended Universe",
+
+#EXTINF:-1, tvg-logo="" group-title="DC Extended Universe",
+
+#EXTINF:-1, tvg-logo="" group-title="DC Extended Universe",
+
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282000%29/X-Men%20%282000%29%20720p%20%5BDual%20Audio%5D/X-Men%20%282000%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%2BEnglish%205.1%5D%20-%20KartiKing.mkv" group-title="Marvel Studios",X-MEN
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282000%29/X-Men%20%282000%29%20720p%20%5BDual%20Audio%5D/X-Men%20%282000%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%2BEnglish%205.1%5D%20-%20KartiKing.mkv
 #EXTINF:-1, tvg-logo="" group-title="",
 
 #EXTINF:-1, tvg-logo="" group-title="",
-#EXTINF:-1, tvg-logo="" group-title="",
+
 #EXTINF:-1, tvg-logo="" group-title="",
 
 #EXTINF:-1, tvg-logo="" group-title="",
+
 #EXTINF:-1, tvg-logo="" group-title="",
 
 #EXTINF:-1, tvg-logo="" group-title="",
-#EXTINF:-1, tvg-logo="" group-title="",
-#EXTINF:-1, tvg-logo="" group-title="",
 
-#EXTINF:-1, tvg-logo="" group-title="",
-#EXTINF:-1, tvg-logo="" group-title="",
-
-#EXTINF:-1, tvg-logo="" group-title="",
-#EXTINF:-1, tvg-logo="" group-title="",
-#EXTINF:-1, tvg-logo="" group-title="",
-
-
-
-
-
-#EXTINF:-1, tvg-logo="" group-title="",
-#EXTINF:-1, tvg-logo="" group-title="",
-#EXTINF:-1, tvg-logo="" group-title="",
 #EXTINF:-1, tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/She-Hulk%20-%20Attorney%20at%20Law%20%28TV%20Series%202022%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="She-Hulk Attorney at Law",She-Hulk S01E01
 http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/She-Hulk%20-%20Attorney%20at%20Law%20%28TV%20Series%202022%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/She-Hulk%20Attorney%20at%20Law%20S01E01%20%201080p%20DSNP%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/She-Hulk%20-%20Attorney%20at%20Law%20%28TV%20Series%202022%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="She-Hulk Attorney at Law",She-Hulk S01E02
