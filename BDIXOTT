@@ -238,8 +238,8 @@ http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%98%85%20%200%2
 
 #EXTINF:-1, tvg-logo="" group-title="",
 
-#EXTINF:-1, tvg-logo="" group-title="",
-
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282007%29/Om%20Shanti%20Om%20%282007%29%201080p/aaz.jpg" group-title="Hindi Movies",OM SANTI OM
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282007%29/Om%20Shanti%20Om%20%282007%29%201080p/Om%20Shanti%20Om%20%282007%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/She-Hulk%20-%20Attorney%20at%20Law%20%28TV%20Series%202022%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="She-Hulk Attorney at Law",She-Hulk S01E01
 http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/She-Hulk%20-%20Attorney%20at%20Law%20%28TV%20Series%202022%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/She-Hulk%20Attorney%20at%20Law%20S01E01%20%201080p%20DSNP%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/She-Hulk%20-%20Attorney%20at%20Law%20%28TV%20Series%202022%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="She-Hulk Attorney at Law",She-Hulk S01E02
