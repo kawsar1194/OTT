@@ -203,8 +203,8 @@ http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/DC%20Extended%20Universe-DCEU%2
 http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/DC%20Extended%20Universe-DCEU%20Collection%20%282008-2019%29%20720p%20%26%201080p%20%5BDual%20Audio%5D/08%20-%20Birds%20of%20Prey%20%282020%29%201080p%20%5BDual%20Audio%5D/Birds%20of%20Prey%20%282020%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-%20mkvC.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282019%29%201080p/Joker%20%282019%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="DC Extended Universe",Joker
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282019%29%201080p/Joker%20%282019%29%201080p%20%5BDual%20Audio%5D/Joker%20%282019%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
-#EXTINF:-1, tvg-logo="" group-title="DC Extended Universe",
-
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282019%29%201080p/Joker%20%282019%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="DC Extended Universe",Joker
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282019%29%201080p/Joker%20%282019%29%201080p%20%5BDual%20Audio%5D/Joker%20%282019%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1, tvg-logo="" group-title="DC Extended Universe",
 
 #EXTINF:-1, tvg-logo="" group-title="DC Extended Universe",
@@ -235,8 +235,42 @@ http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%98%85%20%200%2
 http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%98%85%20%200%20%20%E2%80%94%20%209/3%20Body%20Problem%20%28TV%20Series%202024%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/3%20Body%20Problem%20S01E07%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%98%85%20%200%20%20%E2%80%94%20%209/3%20Body%20Problem%20%28TV%20Series%202024%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/a_VL_.jpg" group-title="3 Body Problem",S01E08
 http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%98%85%20%200%20%20%E2%80%94%20%209/3%20Body%20Problem%20%28TV%20Series%202024%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/3%20Body%20Problem%20S01E08%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282018%29/Irumbu%20Thirai%20%282018%29%201080p%20%5BDual%20Audio%5D/a%282018%29.jpg" group-title="South Indian",The Return of Abhimanyu
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282018%29/Irumbu%20Thirai%20%282018%29%201080p%20%5BDual%20Audio%5D/Irumbu%20Thirai%20%282018%29%20UNCUT%201080p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTamil%205.1%5D%20-DMV.mkv
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
 
 #EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="",
+
 
 #EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282007%29/Om%20Shanti%20Om%20%282007%29%201080p/aaz.jpg" group-title="Hindi Movies",OM SANTI OM
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282007%29/Om%20Shanti%20Om%20%282007%29%201080p/Om%20Shanti%20Om%20%282007%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
