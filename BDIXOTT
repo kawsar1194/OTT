@@ -275,11 +275,20 @@ http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282014%29%2010
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282015%29%201080p/The%20Hunger%20Games-Mockingjay%20-%20Part%202%20%282015%29%201080p%20%5BDual%20Audio%5D/The%20Hunger%20Games%20Mockingjay%20Part%202%20%282015%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%207.1%5D%20-OlaM.mkv
 #EXTINF:-1, tvg-logo="" group-title="The Hunger Games",The Hunger Games: The Ballad of Songbirds & Snakes
 
-#EXTINF:-1, tvg-logo="" group-title="",
-#EXTINF:-1, tvg-logo="" group-title="",
-#EXTINF:-1, tvg-logo="" group-title="",
-#EXTINF:-1, tvg-logo="" group-title="",
-#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282000%29%201080p/Final%20Destination%20%282000%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Final Destination",Final Destination
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282000%29%201080p/Final%20Destination%20%282000%29%201080p%20%5BDual%20Audio%5D/Final%20Destination%20%282000%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282003%29%201080p/Final%20Destination%202%20%282003%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Final Destination",Final Destination 2
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282003%29%201080p/Final%20Destination%202%20%282003%29%201080p%20%5BDual%20Audio%5D/Final%20Destination%202%20%282003%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282006%29%201080p/Final%20Destination%203%20%282006%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Final Destination",Final Destination 3
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282006%29%201080p/Final%20Destination%203%20%282006%29%201080p%20%5BDual%20Audio%5D/Final%20Destination%203%20%282006%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282009%29%201080p/The%20Final%20Destination%20%282009%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Final Destination",The Final Destination
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282009%29%201080p/The%20Final%20Destination%20%282009%29%201080p%20%5BDual%20Audio%5D/The%20Final%20Destination%20%282009%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282011%29%201080p/Final%20Destination%205%20%282011%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Final Destination",Final Destination 5
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282011%29%201080p/Final%20Destination%205%20%282011%29%201080p%20%5BDual%20Audio%5D/Final%20Destination%205%20%282011%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282018%29%201080p/Venom%20%282018%29%201080p/a_AL_.jpg" group-title="Marvel Studios",Venom
+
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282021%29%201080p/Venom-Let%20There%20Be%20Carnage%20%282021%29%201080p%20AMZN/a_AL_.jpg" group-title="Marvel Studios",Venom: Let There Be Carnage
+
 #EXTINF:-1, tvg-logo="" group-title="",
 #EXTINF:-1, tvg-logo="" group-title="",
 #EXTINF:-1, tvg-logo="" group-title="",
