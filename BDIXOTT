@@ -495,7 +495,8 @@ http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%2
 http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Alice%20in%20Borderland%20%28TV%20Series%202020%E2%80%93%20%29%201080p%20%5BMulti%20Audio%5D/Season%202/Alice%20in%20Borderland%20S02E07%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BMulti%20Audio%5D%5BHindi%205.1%2BJapanese%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Alice%20in%20Borderland%20%28TV%20Series%202020%E2%80%93%20%29%201080p%20%5BMulti%20Audio%5D/a_AL_.jpg" group-title="Alice in Borderland",S02E08
 http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Alice%20in%20Borderland%20%28TV%20Series%202020%E2%80%93%20%29%201080p%20%5BMulti%20Audio%5D/Season%202/Alice%20in%20Borderland%20S02E08%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BMulti%20Audio%5D%5BHindi%205.1%2BJapanese%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
-#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282020%29/The%20Witches%20%282020%29%20720p/a_AL_.jpg" group-title="English Movies",The Witches
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282020%29/The%20Witches%20%282020%29%20720p/The.Witches.2020.720p.BluRay.800MB.x264-GalaxyRG.mkv
 #EXTINF:-1, tvg-logo="" group-title="",
 
 #EXTINF:-1, tvg-logo="" group-title="",
