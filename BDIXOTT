@@ -205,8 +205,8 @@ http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/DC%20Extended%20Universe-DCEU%2
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282019%29%201080p/Joker%20%282019%29%201080p%20%5BDual%20Audio%5D/Joker%20%282019%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282019%29%201080p/Joker%20%282019%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="DC Extended Universe",Joker
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282019%29%201080p/Joker%20%282019%29%201080p%20%5BDual%20Audio%5D/Joker%20%282019%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
-#EXTINF:-1, tvg-logo="" group-title="DC Extended Universe",
-
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/003.%20The%20Dark%20Knight%20%282008%29%201080p%20%5BDual%20Audio%5D/a11.jpg" group-title="DC Extended Universe",The Dark Knight
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/003.%20The%20Dark%20Knight%20%282008%29%201080p%20%5BDual%20Audio%5D/The%20Dark%20Knight%20%282008%29%20IMAX%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1, tvg-logo="" group-title="DC Extended Universe",
 
 #EXTINF:-1, tvg-logo="" group-title="DC Extended Universe",
@@ -357,44 +357,6 @@ http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%2
 http://public.iptv18.tech/smart.php?id=11227
 #EXTINF:-1, tvg-logo="" group-title="",sony aath usa
 http://public.iptv18.tech/smart.php?id=58185
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="VEZone",Sony Aath
-http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="ICC",Sony Aath
-http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="ICC 2",Sony Aath
-http://103.205.133.14/hls/sony8.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="ICC 3",Sony Aath
-http://103.205.133.19/hls/sony8.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="CinemaBazar",Sony Aath
-http://103.81.104.222/live/sonyaath/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="KITV",Sony Aath
-http://iptv.kitv.live:1935/live/Shari/MTV-P/123.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Asif",Sony Aath
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/26.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="BCN",Sony Aath
-http://103.244.140.20:8080/Sonyaath/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="CCN",Sony Aath
-http://ccn.anytv.live:8080/sonyaath/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="KhulnaLive",Sony Aath
-http://khulnalive.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="IBox",Sony Aath
-http://103.135.208.14/live/ibox/bd/36.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="ICC",Akash Aath
-http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="KITV",Akash Aath
-http://iptv.kitv.live:1935/live/Shari/MTV-P/130.m3u8
 #EXTINF:-1, tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Wheel%20of%20Time%20%28TV%20Series%202021%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="The Wheel of Time",S01E01
 http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Wheel%20of%20Time%20%28TV%20Series%202021%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/The%20Wheel%20of%20Time%20S01E01%20%201080p%20AMZN%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Wheel%20of%20Time%20%28TV%20Series%202021%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="The Wheel of Time",S01E02
@@ -497,14 +459,22 @@ http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%2
 http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Alice%20in%20Borderland%20%28TV%20Series%202020%E2%80%93%20%29%201080p%20%5BMulti%20Audio%5D/Season%202/Alice%20in%20Borderland%20S02E08%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BMulti%20Audio%5D%5BHindi%205.1%2BJapanese%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282020%29/The%20Witches%20%282020%29%20720p/a_AL_.jpg" group-title="English Movies",The Witches
 http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282020%29/The%20Witches%20%282020%29%20720p/The.Witches.2020.720p.BluRay.800MB.x264-GalaxyRG.mkv
-#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282021%29%201080p/Red%20Notice%20%282021%29%201080p%20NF/a_AL_.jpg" group-title="Movies",Red Notice
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282021%29/Red%20Notice%20%282021%29%20720p%20NF%20%5BDual%20Audio%5D/Red%20Notice%20%282021%29%20720p%20%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/220.%20The%20Terminator%20%281984%29%201080p%20%5BDual%20Audio%5D/a11.jpg" group-title="The Terminator",The Terminator
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/220.%20The%20Terminator%20%281984%29%201080p%20%5BDual%20Audio%5D/The%20Terminator%20%281984%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/029.%20Terminator%202-Judgment%20Day%20%281991%29%201080p%20%5BDual%20Audio%5D/a11.jpg" group-title="The Terminator",Terminator 2: Judgment Day
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/029.%20Terminator%202-Judgment%20Day%20%281991%29%201080p%20%5BDual%20Audio%5D/Terminator%202%20Judgment%20Day%20%281991%29%20DC%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1, tvg-logo="" group-title="The Terminator",Terminator 3: Rise of the Machines
 
-#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="The Terminator",Terminator Salvation
 
+#EXTINF:-1, tvg-logo="" group-title="The Terminator",Terminator Genisys
 
-#EXTINF:-1, tvg-logo="" group-title="",
-#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="The Terminator",Terminator: Dark Fate
 
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies%20%281080p%29/Tom%20and%20Jerry%20%282021%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Tom & Jerry
+http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies%20%281080p%29/Tom%20and%20Jerry%20%282021%29%201080p%20%5BDual%20Audio%5D/Tom%20and%20Jerry%20%282021%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1, tvg-logo="" group-title="",
 #EXTINF:-1, tvg-logo="" group-title="",
 
@@ -568,11 +538,7 @@ http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282006%29%2010
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282009%29%201080p/The%20Final%20Destination%20%282009%29%201080p%20%5BDual%20Audio%5D/The%20Final%20Destination%20%282009%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-OlaM.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282011%29%201080p/Final%20Destination%205%20%282011%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Final Destination",Final Destination 5
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282011%29%201080p/Final%20Destination%205%20%282011%29%201080p%20%5BDual%20Audio%5D/Final%20Destination%205%20%282011%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
-#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282018%29%201080p/Venom%20%282018%29%201080p/a_AL_.jpg" group-title="Marvel Studios",Venom
-
-#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282021%29%201080p/Venom-Let%20There%20Be%20Carnage%20%282021%29%201080p%20AMZN/a_AL_.jpg" group-title="Marvel Studios",Venom: Let There Be Carnage
-
-#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Quiet%20Place%20%282018%29%201080p%20%5BDual%20Audio%5D/a_V1_.jpg" group-title="Movies",A Quiet Place
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Quiet%20Place%20%282018%29%201080p%20%5BDual%20Audio%5D/a_V1_.jpg" group-title="English Movies",A Quiet Place
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Quiet%20Place%20%282018%29%201080p%20%5BDual%20Audio%5D/A%20Quiet%20Place%20%282018%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1, tvg-logo="" group-title="",
 #EXTINF:-1, tvg-logo="" group-title="",
