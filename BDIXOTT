@@ -475,12 +475,78 @@ http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/029.%20Terminator%202-
 
 #EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies%20%281080p%29/Tom%20and%20Jerry%20%282021%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Tom & Jerry
 http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies%20%281080p%29/Tom%20and%20Jerry%20%282021%29%201080p%20%5BDual%20Audio%5D/Tom%20and%20Jerry%20%282021%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-#EXTINF:-1, tvg-logo="" group-title="",
-#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282022%29/The%20Adam%20Project%20%282022%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",The Adam Project
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282022%29/The%20Adam%20Project%20%282022%29%20720p%20NF%20%5BDual%20Audio%5D/The%20Adam%20Project%20%282022%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282022%29/The%20Curse%20of%20Bridge%20Hollow%20%282022%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",The Curse of Bridge Hollow
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282022%29/The%20Curse%20of%20Bridge%20Hollow%20%282022%29%20720p%20NF%20%5BDual%20Audio%5D/The%20Curse%20of%20Bridge%20Hollow%20%282022%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282010%29/Prince%20of%20Persia-The%20Sands%20of%20Time%20%282010%29%20720p%20%5BDual%20Audio%5D/ace.jpg" group-title="Movies",Prince of Persia:The Sands of Time
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282010%29/Prince%20of%20Persia-The%20Sands%20of%20Time%20%282010%29%20720p%20%5BDual%20Audio%5D/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20%282010%29%20720p%20Blu-Ray%20x264%5BDual-Audio%5D%5BEnglish%2BHindi%205.1%5D%20-%20Mafiaking.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282021%29/Free%20Guy%20%282021%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Free Guy
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282021%29/Free%20Guy%20%282021%29%20720p%20%5BDual%20Audio%5D/Free%20Guy%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282010%29/Predators%20%282010%29%20720p%20%5BDual%20Audio%5D/a11.jpg" group-title="Movies",Predators
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282010%29/Predators%20%282010%29%20720p%20%5BDual%20Audio%5D/Predators%20%282010%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%202.0%5D%20-KartiKing.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282013%29/The%20Mortal%20Instruments%20City%20of%20Bones%20%282013%29%20720p%20%5BDual%20Audio%5D/a11.jpg" group-title="Movies",
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282013%29/The%20Mortal%20Instruments%20City%20of%20Bones%20%282013%29%20720p%20%5BDual%20Audio%5D/The%20Mortal%20Instruments%20City%20of%20Bones%20%282013%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282010%29/The%20Sorcerer%27s%20Apprentice%20%282010%29%20720p%20%5BDual%20Audio%5D/a25.jpg" group-title="Movies",The Sorcerer's Apprentice
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282010%29/The%20Sorcerer%27s%20Apprentice%20%282010%29%20720p%20%5BDual%20Audio%5D/The%20Sorcerers%20Apprentice%20%282010%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-%20mkvC.mkv
+#EXTINF:-1, tvg-logo="" group-title="Movies",
 
-#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="Movies",
 
-#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",
 #EXTINF:-1, tvg-logo="" group-title="",
 #EXTINF:-1, tvg-logo="" group-title="",
 
