@@ -213,6 +213,34 @@ http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/003.%20The%20Dark%20Kn
 
 #EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282000%29/X-Men%20%282000%29%20720p%20%5BDual%20Audio%5D/X-Men%20%282000%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%2BEnglish%205.1%5D%20-%20KartiKing.mkv" group-title="Marvel Studios",X-MEN
 http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282000%29/X-Men%20%282000%29%20720p%20%5BDual%20Audio%5D/X-Men%20%282000%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%2BEnglish%205.1%5D%20-%20KartiKing.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282003%29%201080p/X2%20-%20X-Men%20United%20%282003%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Marvel Studios",X2
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282003%29%201080p/X2%20-%20X-Men%20United%20%282003%29%201080p%20%5BDual%20Audio%5D/X2%20-%20X-Men%20United%20%282003%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282006%29%201080p/X-Men%20-%20The%20Last%20Stand%20%282006%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Marvel Studios",X-Men: The Last Stand
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282006%29%201080p/X-Men%20-%20The%20Last%20Stand%20%282006%29%201080p%20%5BDual%20Audio%5D/X-Men%20The%20Last%20Stand%20%282006%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282009%29%201080p/X-Men%20Origins-Wolverine%20%282009%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Marvel Studios",X-Men Origins: Wolverine
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282009%29%201080p/X-Men%20Origins-Wolverine%20%282009%29%201080p%20%5BDual%20Audio%5D/X-Men%20Origins%20Wolverine%20%282009%29%20Extended%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282011%29%201080p/X-Men%20-%20First%20Class%20%282011%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Marvel Studios",X-Men: First Class
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282011%29%201080p/X-Men%20-%20First%20Class%20%282011%29%201080p%20%5BDual%20Audio%5D/X-Men%20First%20Class%20%282011%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282013%29%201080p/The%20Wolverine%20%282013%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Marvel Studios",The Wolverine
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282013%29%201080p/The%20Wolverine%20%282013%29%201080p%20%5BDual%20Audio%5D/The%20Wolverine%20%282013%29%20Extended%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%202.0%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282014%29%201080p/X-Men%20-%20Days%20of%20Future%20Past%20%282014%29%201080p%20%5BDual%20Audio%5D/a11.jpg" group-title="Marvel Studios",X-Men: Days of Future Past
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282014%29%201080p/X-Men%20-%20Days%20of%20Future%20Past%20%282014%29%201080p%20%5BDual%20Audio%5D/X-Men%20Days%20of%20Future%20Past%20%282014%29%20Rogue%20Cut%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282016%29%201080p/X-Men%20Apocalypse%20%282016%29%201080p%20%5BDual%20Audio%5D/a11.jpg" group-title="Marvel Studios",X-Men: Apocalypse
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282016%29%201080p/X-Men%20Apocalypse%20%282016%29%201080p%20%5BDual%20Audio%5D/X-Men%20Apocalypse%20%282016%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%207.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282017%29%201080p/Logan%20%282017%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Marvel Studios",Logan
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282017%29%201080p/Logan%20%282017%29%201080p%20%5BDual%20Audio%5D/Logan%20%282017%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%207.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282019%29%201080p/X-Men%20-%20Dark%20Phoenix%20%282019%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Marvel Studios",Dark Phoenix
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282019%29%201080p/X-Men%20-%20Dark%20Phoenix%20%282019%29%201080p%20%5BDual%20Audio%5D/Dark%20Phoenix%20%282019%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%207.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="" group-title="Marvel Studios",
+
+#EXTINF:-1, tvg-logo="" group-title="Marvel Studios",
+
+#EXTINF:-1, tvg-logo="" group-title="Marvel Studios",
+
+#EXTINF:-1, tvg-logo="" group-title="Marvel Studios",
+
+#EXTINF:-1, tvg-logo="" group-title="Marvel Studios",
+
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/NLh8zSXw/MV5-BMDNl-Mz-Ni-ZWYt-Mj-Ew-OS00-ODZi-LTg2-MDIt-Ym-Vl-Zjcy-ZWU4-Mjc4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTU0-NTQ0-MTMy-V1-FMjpg-UX1000.jpg" group-title="Bangla Movies",JINN
 https://ml.waxij29415.workers.dev/0:/Jinn%202023/Jinn%20(2023)%20[FreeDriveMovie.com]%201080p%20Bangla%20Bongo%20WEB-DL%201080p.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282021%29%201080p/Dune%20%282021%29%201080p%20HMAX/a_AL_.jpg" group-title="Movies",Dune
@@ -489,10 +517,10 @@ http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282010%29/Predators%20%282010%
 http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282013%29/The%20Mortal%20Instruments%20City%20of%20Bones%20%282013%29%20720p%20%5BDual%20Audio%5D/The%20Mortal%20Instruments%20City%20of%20Bones%20%282013%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282010%29/The%20Sorcerer%27s%20Apprentice%20%282010%29%20720p%20%5BDual%20Audio%5D/a25.jpg" group-title="Movies",The Sorcerer's Apprentice
 http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282010%29/The%20Sorcerer%27s%20Apprentice%20%282010%29%20720p%20%5BDual%20Audio%5D/The%20Sorcerers%20Apprentice%20%282010%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-%20mkvC.mkv
-#EXTINF:-1, tvg-logo="" group-title="Movies",
-
-#EXTINF:-1, tvg-logo="" group-title="Movies",
-
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282013%29/World%20War%20Z%20%282013%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",World War Z
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282013%29/World%20War%20Z%20%282013%29%20720p%20%5BDual%20Audio%5D/World%20War%20Z%20%282013%29%20UNRATED%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282016%29/Warcraft%20%282016%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Warcraft
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282016%29/Warcraft%20%282016%29%20720p%20%5BDual%20Audio%5D/Warcraft%20%282016%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1, tvg-logo="" group-title="Movies",
 
 #EXTINF:-1, tvg-logo="" group-title="Movies",
