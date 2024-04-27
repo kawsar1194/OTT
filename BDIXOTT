@@ -493,14 +493,14 @@ http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282021%29/Red%20Notice%20%2820
 http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/220.%20The%20Terminator%20%281984%29%201080p%20%5BDual%20Audio%5D/The%20Terminator%20%281984%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/029.%20Terminator%202-Judgment%20Day%20%281991%29%201080p%20%5BDual%20Audio%5D/a11.jpg" group-title="The Terminator",Terminator 2: Judgment Day
 http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/029.%20Terminator%202-Judgment%20Day%20%281991%29%201080p%20%5BDual%20Audio%5D/Terminator%202%20Judgment%20Day%20%281991%29%20DC%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-#EXTINF:-1, tvg-logo="" group-title="The Terminator",Terminator 3: Rise of the Machines
-
-#EXTINF:-1, tvg-logo="" group-title="The Terminator",Terminator Salvation
-
-#EXTINF:-1, tvg-logo="" group-title="The Terminator",Terminator Genisys
-
-#EXTINF:-1, tvg-logo="" group-title="The Terminator",Terminator: Dark Fate
-
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282003%29%201080p/Terminator%203-Rise%20of%20the%20Machines%20%282003%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="The Terminator",Terminator 3: Rise of the Machines
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282003%29%201080p/Terminator%203-Rise%20of%20the%20Machines%20%282003%29%201080p%20%5BDual%20Audio%5D/Terminator%203%20Rise%20of%20the%20Machines%20%282003%29%20UNRATED%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282009%29%201080p/Terminator%20Salvation%20%282009%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="The Terminator",Terminator Salvation
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282009%29%201080p/Terminator%20Salvation%20%282009%29%201080p%20%5BDual%20Audio%5D/Terminator%20Salvation%20%282009%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282015%29%201080p/Terminator%20Genisys%20%282015%29%201080p%20%5BDual%20Audio%5D/a_A1_.jpg" group-title="The Terminator",Terminator Genisys
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282015%29%201080p/Terminator%20Genisys%20%282015%29%201080p%20%5BDual%20Audio%5D/Terminator%20Genisys%20%282015%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%207.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282019%29%201080p/Terminator-Dark%20Fate%20%282019%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="The Terminator",Terminator: Dark Fate
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282019%29%201080p/Terminator-Dark%20Fate%20%282019%29%201080p%20%5BDual%20Audio%5D/Terminator%20Dark%20Fate%20%282019%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%207.1%5D%20-OlaM.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies%20%281080p%29/Tom%20and%20Jerry%20%282021%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Tom & Jerry
 http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies%20%281080p%29/Tom%20and%20Jerry%20%282021%29%201080p%20%5BDual%20Audio%5D/Tom%20and%20Jerry%20%282021%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282022%29/The%20Adam%20Project%20%282022%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",The Adam Project
@@ -575,7 +575,42 @@ http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282016%29/Warcraft%20%282016%2
 #EXTINF:-1, tvg-logo="" group-title="Movies",
 
 #EXTINF:-1, tvg-logo="" group-title="Movies",
-#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/South%20Movies/2024/Ayalaan%20%282024%29%201080p%20%28Tamil%29/a_AL_.jpg" group-title="South Indian",Ayalaan
+https://pub-748537d8950d4c2aa08749dfebe41b10.r2.dev/MovieLinkBD-Ayalaan%202024-Dual%20Audio%20[Hindi%20HQ-Tamil]%20WEB-DL%201080p.mkv
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
+
+#EXTINF:-1, tvg-logo="" group-title="South Indian",
 #EXTINF:-1, tvg-logo="" group-title="",
 
 #EXTINF:-1, tvg-logo="" group-title="",
