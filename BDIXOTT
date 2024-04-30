@@ -245,7 +245,7 @@ http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282019%29%2010
 https://pub-a0193d15bfc5474993bb4bb4a47b514d.r2.dev/Jinn%202023%20Bangla%20Bongo%20WEB-DL%201080p.MovieLinkBD.mp4
 #EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282021%29%201080p/Dune%20%282021%29%201080p%20HMAX/a_AL_.jpg" group-title="Movies",Dune
 http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282021%29/Dune%20%282021%29%20720p%20%5BDual%20Audio%5D/Dune%20%282021%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282024%29%201080p/Dune-Part%20Two%20%282024%29%201080p%20HMAX/a_AL_.jpg" group-title="Movies",Dune Part 2
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282024%29%201080p/Dune-Part%20Two%20%282024%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Dune Part 2
 http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282024%29/Dune-Part%20Two%20%282024%29%20720p%20AMZN%20%5BDual%20Audio%5D/Dune%20Part%20Two%20%282024%29%20720p%20AMZN-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%98%85%20%200%20%20%E2%80%94%20%209/3%20Body%20Problem%20%28TV%20Series%202024%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/a_VL_.jpg" group-title="3 Body Problem",S01E01
 http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%98%85%20%200%20%20%E2%80%94%20%209/3%20Body%20Problem%20%28TV%20Series%202024%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/Season%201/3%20Body%20Problem%20S01E01%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
@@ -522,9 +522,14 @@ http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282013%29/World%20War%20Z%20%2
 #EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282016%29/Warcraft%20%282016%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Warcraft
 http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282016%29/Warcraft%20%282016%29%20720p%20%5BDual%20Audio%5D/Warcraft%20%282016%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1, tvg-logo="" group-title="Movies",Creators
+#EXTINF:-1, tvg-logo="" group-title="Movies",
 
 #EXTINF:-1, tvg-logo="" group-title="Movies",
 
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282023%29%201080p/Rebel%20Moon-Part%20One%20-%20A%20Child%20of%20Fire%20%282023%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Rebel Moon
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282023%29%201080p/Rebel%20Moon-Part%20One%20-%20A%20Child%20of%20Fire%20%282023%29%201080p%20NF%20%5BDual%20Audio%5D/Rebel%20Moon%20Part-1%20A%20Child%20of%20Fire%20%282023%29%201080p%20NF-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282024%29%201080p/Rebel%20Moon-Part%20Two%20-%20The%20Scargiver%20%282024%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Rebel Moon – Part Two: The Scargiver
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282024%29%201080p/Rebel%20Moon-Part%20Two%20-%20The%20Scargiver%20%282024%29%201080p%20NF%20%5BDual%20Audio%5D/Rebel%20Moon%20Part%20Two%20The%20Scargiver%20%282024%29%201080p%20NF-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
 #EXTINF:-1, tvg-logo="" group-title="Movies",
 
 #EXTINF:-1, tvg-logo="" group-title="Movies",
