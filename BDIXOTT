@@ -231,6 +231,22 @@ http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282016%29%2010
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282017%29%201080p/Logan%20%282017%29%201080p%20%5BDual%20Audio%5D/Logan%20%282017%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%207.1%5D%20-OlaM.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282019%29%201080p/X-Men%20-%20Dark%20Phoenix%20%282019%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Marvel Studios",Dark Phoenix
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282019%29%201080p/X-Men%20-%20Dark%20Phoenix%20%282019%29%201080p%20%5BDual%20Audio%5D/Dark%20Phoenix%20%282019%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%207.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282016%29/Deadpool%20%282016%29%20720p%20%5BDual%20Audio%5D/a04.jpg" group-title="Marvel Studios",Deadpool
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282016%29%201080p/Deadpool%20%282016%29%201080p%20%5BDual%20Audio%5D/Deadpool%20%282016%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%207.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282018%29%201080p/Deadpool%202%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Marvel Studios",Deadpool 2
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282018%29%201080p/Deadpool%202%20%282018%29%201080p%20%5BDual%20Audio%5D/Deadpool%202%20%282018%29%20Super%20Duper%20Cut%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%207.1%5D%20-OlaM.mkv
+#EXTINF:-1, tvg-logo="" group-title="Marvel Studios",
+
+#EXTINF:-1, tvg-logo="" group-title="Marvel Studios",
+
+#EXTINF:-1, tvg-logo="" group-title="Marvel Studios",
+
+#EXTINF:-1, tvg-logo="" group-title="Marvel Studios",
+
+#EXTINF:-1, tvg-logo="" group-title="Marvel Studios",
+
+#EXTINF:-1, tvg-logo="" group-title="Marvel Studios",
+
 #EXTINF:-1, tvg-logo="" group-title="Marvel Studios",
 
 #EXTINF:-1, tvg-logo="" group-title="Marvel Studios",
@@ -530,10 +546,10 @@ http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282016%29/Warcraft%20%282016%2
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282023%29%201080p/Rebel%20Moon-Part%20One%20-%20A%20Child%20of%20Fire%20%282023%29%201080p%20NF%20%5BDual%20Audio%5D/Rebel%20Moon%20Part-1%20A%20Child%20of%20Fire%20%282023%29%201080p%20NF-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282024%29%201080p/Rebel%20Moon-Part%20Two%20-%20The%20Scargiver%20%282024%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Rebel Moon – Part Two: The Scargiver
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282024%29%201080p/Rebel%20Moon-Part%20Two%20-%20The%20Scargiver%20%282024%29%201080p%20NF%20%5BDual%20Audio%5D/Rebel%20Moon%20Part%20Two%20The%20Scargiver%20%282024%29%201080p%20NF-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
-#EXTINF:-1, tvg-logo="" group-title="Movies",
-
-#EXTINF:-1, tvg-logo="" group-title="Movies",
-
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282018%29/The%20Nun%20%282018%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",The Nun
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282018%29/The%20Nun%20%282018%29%20720p%20%5BDual%20Audio%5D/The%20Nun%20%282018%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282023%29%201080p/The%20Nun%20II%20%282023%29%201080p%20MA%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",The Nun II
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282023%29%201080p/The%20Nun%20II%20%282023%29%201080p%20MA%20%5BDual%20Audio%5D/The%20Nun%20II%20%282023%29%201080p%20MA-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1, tvg-logo="" group-title="Movies",
 
 #EXTINF:-1, tvg-logo="" group-title="Movies",
