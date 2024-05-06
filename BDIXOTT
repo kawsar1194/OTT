@@ -641,18 +641,8 @@ http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282019%29/Kalank%20%282019%29%
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282022%29/Bhediya%20%282022%29%201080p/Bhediya%20%282022%29%20Hindi%201080p%20JIO%20WEBRip%20x264%20DD5.1%20AAC%20-%20mkvCinemas.mkv
 #EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Shaitaan%20%282024%29%201080p/a_AL_.jpg" group-title="Hindi Movies",Shaitan
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Shaitaan%20%282024%29%201080p/Shaitaan%20%282024%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20MSubs%20-%20DownloadHub.mkv
-#EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
-#EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
-#EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
-#EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
-
-
-#EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
-
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282012%29/1920-Evil%20Returns%20%282012%29%201080p/a02.jpeg" group-title="Hindi Movies",1920: Evil Returns
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282012%29/1920-Evil%20Returns%20%282012%29%201080p/1920-Evil%20Returns%20%282012%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD2.0%20ESub%20-%20mkvCinemas.mkv
 #EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
 
 #EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
@@ -661,6 +651,14 @@ http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Shaitaan%20%282024%2
 #EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
 #EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
 
+
+#EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
+#EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
+
 #EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
 #EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
 
@@ -668,8 +666,12 @@ http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Shaitaan%20%282024%2
 #EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
 
 #EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
+#EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
 
-#EXTINF:-1, tvg-logo="" group-title="",
+#EXTINF:-1, tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies/%282024%29/Orion%20and%20the%20Dark%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies",Orion and the Dark
+http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies/%282024%29/Orion%20and%20the%20Dark%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D/Orion%20and%20the%20Dark%20%282024%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
 #EXTINF:-1, tvg-logo="" group-title="",
 
 #EXTINF:-1, tvg-logo="" group-title="",
