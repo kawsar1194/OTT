@@ -399,6 +399,8 @@ http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%2
 http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Falcon%20and%20the%20Winter%20Soldier%20%28TV%20Mini-Series%202021%29%20720p%20%5BDual%20Audio%5D/Season%201/The%20Falcon%20and%20the%20Winter%20Soldier%20S01E06%20%20720p%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1 tvg-logo="" group-title="",sony aath
 http://public.iptv18.tech/smart.php?id=11227
+#EXTINF:-1 tvg-logo="" group-title="",sony aath Opplex tv
+http://opplex.tv:8080/live/223322/223322/245989.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",sony aath usa
 http://public.iptv18.tech/smart.php?id=58185
 #EXTINF:-1 tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20S%20%20%E2%80%94%20%20Z/The%20Wheel%20of%20Time%20%28TV%20Series%202021%E2%80%93%20%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="The Wheel of Time",S01E01
@@ -674,8 +676,6 @@ http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282012%29/1920-Evil%20Returns%
 
 #EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies/%282024%29/Orion%20and%20the%20Dark%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Animation Movies",Orion and the Dark
 http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies/%282024%29/Orion%20and%20the%20Dark%20%282024%29%20720p%20NF%20%5BDual%20Audio%5D/Orion%20and%20the%20Dark%20%282024%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
-#EXTINF:-1 tvg-logo="" group-title="Animation Movies",Doraemon Christmas Connection
-https://drive.usercontent.google.com/download?id=1WVvOT9ySbjOsAgWGy2DNIhGlZb2Jfclk&export=download&authuser=1&confirm=t&uuid=5beff437-0f30-404e-9c05-3f7e6ab1c76f&at=APZUnTUGyNlkqb-9Nm4Re8XwayZL:1715179209076
 #EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282002%29%201080p/Resident%20Evil%20%282002%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Resident Evil",Resident Evil
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282002%29%201080p/Resident%20Evil%20%282002%29%201080p%20%5BDual%20Audio%5D/Resident%20Evil%20%282002%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
 #EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282004%29%201080p/Resident%20Evil-Apocalypse%20%282004%29%201080p%20%5BDual%20Audio%5D/a0_AL_.jpg" group-title="Resident Evil",Resident Evil: Apocalypse
